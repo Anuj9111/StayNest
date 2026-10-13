@@ -1,2 +1,2 @@
-# Stayora
-tayora is a full-stack property rental and booking platform
+# StayNest
+StayNest is a full-stack property rental and booking platform
